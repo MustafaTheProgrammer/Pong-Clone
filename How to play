@@ -1,0 +1,12 @@
+-Running program first:
+1. download the file here, PongClone.java
+2. download the Java SDK that I think is called JDK
+3. go into terminal
+4. compile program with javac PongClone.java
+5. run program with java PongClone
+
+-Actual game:
+1. wasd keys to move paddle on left
+2. arrow keys to move paddle on right
+3. try to get ball to opponents side
+4. first to 5 points wins
